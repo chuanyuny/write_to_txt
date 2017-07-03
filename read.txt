@@ -1,0 +1,7 @@
+1 红米Pro发布会 True 北京会展中心 June 21, 2017, 6 a.m. sign 5 3 2
+2 小米6发布会 True 北京会展中心 June 2, 2017, 6 a.m. sign 4 2 4
+3 安卓手机发布会 False 啊 June 22, 2017, noon sign 2 0 6
+4 华为荣耀发布会 False 北京鸟巢 Sept. 9, 2018, noon sign 0 0 0
+5 小米5发布会 False 11 June 26, 2017, noon sign 0 0 0
+6 红米2发布会 False 1111 June 28, 2017, 8:05 a.m. sign 0 0 0
+7 红米小米发布会1 False 3232 June 28, 2017, 8:07 a.m. sign 0 0 0
